@@ -21,6 +21,7 @@
 		<spring-cloud.version>2020.0.3</spring-cloud.version>
 	</properties>
 	
+	
 	<dependencies>
 		<!-- Spring Data JPA (adicionado via Spring Initializr) -->
 		<dependency>
