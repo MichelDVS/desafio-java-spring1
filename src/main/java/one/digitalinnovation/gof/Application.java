@@ -14,6 +14,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * - OpenFeign* 
  * 
  * @author Michel Douglas
+ * 
  *
  */
 @EnableFeignClients

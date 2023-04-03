@@ -108,5 +108,6 @@ public class Endereco {
 	public void setSiafi(String siafi) {
 		this.siafi = siafi;
 	}
+	
 
 }
