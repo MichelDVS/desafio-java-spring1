@@ -11,8 +11,7 @@ import one.digitalinnovation.gof.model.Endereco;
  * <b>ViaCEP</b>.
  * 
  * @see <a href="https://spring.io/projects/spring-cloud-openfeign">Spring Cloud OpenFeign</a>
- * @see <a href="https://viacep.com.br">ViaCEP</a>
- * 
+ * @see <a href="https://viacep.com.br">ViaCEP</a> * 
  * 
  * @author falvojr
  */

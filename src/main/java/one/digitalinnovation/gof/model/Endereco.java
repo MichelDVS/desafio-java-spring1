@@ -4,6 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 /**
+ *
  * Os atributos desse modelo foram gerados automaticamente pelo site
  * jsonschema2pojo.org. Para isso, usamos o JSON de retorno da API do ViaCEP.
  * 

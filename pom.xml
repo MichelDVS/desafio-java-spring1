@@ -19,8 +19,7 @@
 		<java.version>11</java.version>
 		<openapi.version>1.5.10</openapi.version>
 		<spring-cloud.version>2020.0.3</spring-cloud.version>
-	</properties>
-	
+	</properties>	
 	
 	<dependencies>
 		<!-- Spring Data JPA (adicionado via Spring Initializr) -->
